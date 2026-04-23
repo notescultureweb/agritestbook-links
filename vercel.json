@@ -1,14 +1,18 @@
-
 {
   "redirects": [
     {
       "source": "/atbtelegram",
-      "destination": "https://t.me/Agritestbook_official", 
+      "destination": "https://t.me/Agritestbook_official",
       "permanent": true
     },
     {
       "source": "/atbapp",
       "destination": "https://play.google.com/store/apps/details?id=com.jbbqxs.jfglbp",
+      "permanent": true
+    },
+    {
+      "source": "/supervisor2026",
+      "destination": "https://drive.google.com/open?id=1lc6Nc-f_QlXBfQ4l88PgTBdo5nZtQQUz&usp=drive_fs",
       "permanent": true
     }
   ]
