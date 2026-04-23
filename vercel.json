@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/chat",
-      "destination": "https://t.me/Notesculture", 
+      "destination": "https://t.me/Notesculture",
       "permanent": true
     },
     {
-      "source": "/app",
-      "destination": "https://play.google.com/store/apps/details?id=com.agritestbook.app",
+      "source": "/supervisor2026",
+      "destination": "https://आपका_ओरिजिनल_लंबा_लिंक_यहाँ_डालें",
       "permanent": true
     }
   ]
