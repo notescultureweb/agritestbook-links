@@ -2,7 +2,7 @@
 {
   "redirects": [
     {
-      "source": "/chat",
+      "source": "/atbtelegram",
       "destination": "https://t.me/Agritestbook_official", 
       "permanent": true
     },
