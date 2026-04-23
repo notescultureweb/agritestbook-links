@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/chat",
+      "destination": "https://t.me/Notesculture", 
+      "permanent": true
+    },
+    {
+      "source": "/app",
+      "destination": "https://play.google.com/store/apps/details?id=com.agritestbook.app",
+      "permanent": true
+    }
+  ]
+}
